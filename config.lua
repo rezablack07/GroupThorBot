@@ -6,7 +6,7 @@ return {
 		owner = 0,
 		admins = {
 			[135207785] = true,
-            [0] = true,          --Enter your username here
+            [285318015] = true,          --Enter your username here
             [0] = true,          
 		}
 	},
